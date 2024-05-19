@@ -12,20 +12,16 @@
 ************************************************************************
 
 - 🔭 I’m currently working on follows:
-  - 🚀 Implementing of the DevSecOps best-practices
-  - 🚢 Containerazation of the applications/workloads
-  - 🔭 Provisioning a Robus, Secure, Reliable and Highly Available Kubernetes platforms
-  - 🎯 Automation the provisioning and configuration of infrastructure resources on multiple cloud platforms
+  - :rocket: <i>Implementing of the DevSecOps best-practices</i>
+  - :whale: <i>Containerazation of the applications/workloads</i>
+  - :ship: <i>Provisioning a Robus, Secure, Reliable and Highly Available Kubernetes platforms</i>
+  - :factory: <i>Automation the provisioning and configuration of infrastructure resources on multiple cloud platforms</i>
 
 <br/>
 
 - 🌱 I’m currently learning on follows:
-  - Cloud Well-Architected Frameworks
-  - Solution Architecture
-
-<br/>
-
-- 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white&labelColor=gray&color=blue)](mailto:burakkose.uk@gmail.com)
+  - :cloud: <i>Cloud Well-Architected Frameworks</i>
+  - :books: <i>Solution Architecture</i>
 
 <br/>
 
@@ -69,6 +65,10 @@
   <a href="[https://github.com/koseburak/koseburak/commits/main](https://www.linkedin.com/in/kose-burak)" target="_blank">
     <img src="https://img.shields.io/badge/Burak%20Kose-blue?style=flat&logo=linkedin&logoColor=white" alt="The badge redirects to Burak Kose's Linkedin profile!"/>
   </a>
+
+  <a href="[https://github.com/koseburak/koseburak/commits/main](https://www.linkedin.com/in/kose-burak)" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white&labelColor=blue&color=blue" alt="The badge send an Email to Burak Kose!"/>
+  </a>
   
 </p>
 
@@ -94,5 +94,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 - ⚡ Fun fact: ...
+
+- 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white&labelColor=gray&color=blue)](mailto:burakkose.uk@gmail.com)
 
 -->
