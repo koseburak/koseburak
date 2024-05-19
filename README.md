@@ -22,8 +22,8 @@
 
 - 🌱 I’m currently learning on follows:
 
-  - :cloud: <i>Cloud Well-Architected Frameworks</i>
-  - :books: <i>Solution Architecture</i>
+  - [ ] :cloud: <i>Cloud Well-Architected Frameworks</i>
+  - [ ] :books: <i>Solution Architecture</i>
 
 <br/>
 
