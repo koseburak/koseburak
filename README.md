@@ -41,19 +41,19 @@
 [![Stars][githubStars-shield]][githubStars-url]
 [![Last Commit][githubLastCommit-shield]][githubLastCommit-url]
 [![Commits Activity][githubCommits-shield]][githubCommits-url]
-[![GitHub PRs][githubPulls-shield]][githubPulls-url]
+[![GitHub PRs][githubPRs-shield]][githubPRs-url]
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Email Me][email-shield]][email-url]
 
 
 <!-- LINKS -->
-[githubForks-shield]: https://img.shields.io/github/forks/koseburak/koseburak?
-[githubForks-url]: https://github.com/koseburak/koseburak/fork
+[githubForks-shield]: https://img.shields.io/github/forks/koseburak/marvel-universe-web?
+[githubForks-url]: https://github.com/koseburak/marvel-universe-web/fork
 
-[githubStars-shield]: https://img.shields.io/github/stars/koseburak/koseburak?
-[githubStars-url]: https://github.com/koseburak/koseburak/stargazers
+[githubStars-shield]: https://img.shields.io/github/stars/koseburak/resource-utilization-monitor?
+[githubStars-url]: https://github.com/koseburak/resource-utilization-monitor/stargazers
 
-[githubLastCommit-shield]: https://img.shields.io/github/last-commit/koseburak/koseburak?"
+[githubLastCommit-shield]: https://img.shields.io/github/last-commit/koseburak/koseburak?
 [githubLastCommit-url]: https://github.com/koseburak/koseburak/commits/main
 
 [githubCommits-shield]: https://img.shields.io/github/commit-activity/m/koseburak/koseburak?
@@ -62,8 +62,8 @@
 [githubIssues-shield]: https://img.shields.io/github/issues/koseburak/koseburak?"
 [githubIssues-url]: https://github.com/koseburak/koseburak/issues
 
-[githubPulls-shield]: https://img.shields.io/github/issues-pr/koseburak/koseburak?
-[githubPulls-url]: https://github.com/koseburak/koseburak/pulls
+[githubPRs-shield]: https://img.shields.io/github/issues-pr-closed/koseburak/kubernetes-bare-metal-installation?
+[githubPRs-url]: https://github.com/koseburak/kubernetes-bare-metal-installation/pulls
 
 [linkedin-shield]: https://img.shields.io/badge/Burak%20Kose-blue?style=flat&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/kose-burak
