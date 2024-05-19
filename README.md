@@ -2,11 +2,11 @@
   <samp>
     Hi there 👋,
     <br> This is Burak,
-    <br> I have been working as a Software & DevOps & Platform Engineer
+    <br> I have been working,
+    <br> as a Software & DevOps & Platform Engineer,
     <br> for 15 years in the IT industry.
   </samp>
 </p>
-
 
 
 <!-- PROJECT SHIELDS -->
