@@ -11,6 +11,7 @@
 
 <!-- PROJECT SHIELDS -->
 <p align="center">
+  
   <a href="https://github.com/koseburak/koseburak/fork" target="_blank">
     <img src="https://img.shields.io/github/forks/koseburak/koseburak?" alt="Badge showing the total of project forks"/>
   </a>
@@ -35,9 +36,10 @@
     <img src="https://img.shields.io/github/issues-pr/koseburak/koseburak?" alt="Badge showing the total of project pull-requests"/>
   </a>
 
-  <a href="https://github.com/koseburak/koseburak/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/koseburak/koseburak?color=f85149">
+  <a href="https://github.com/koseburak/koseburak/commits/main" target="_blank">
+    <img src="https://img.shields.io/badge/Burak%20Kose-blue?style=flat&logo=linkedin&logoColor=white" alt="The badge redirects to Burak Kose's Linkedin profile!"/>
   </a>
+  
 </p>
 
 
