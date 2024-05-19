@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <samp>
     Hi There 👋
     <br>
@@ -27,32 +27,27 @@
 
 <br/>
 
-- ⚡ Fun fact: ![WoT](http://www.rw-designer.com/icon-image/21525-16x16x32.png) <b>WoT</b>
-  - <h6><i>We didn't even scratched them!</i></h6>
-  - <h6><i>We're lucky it didn't blow!</i></h6>
-  - <h6><i>Lit up like bonfire night!</i></h6>
-  - <h6><i>We torched them!</i></h6>
-  - <h6><i>Gotcha!</i></h6>
+- ⚡ **Fun fact:** ![WoT](http://www.rw-designer.com/icon-image/21525-16x16x32.png) <b>WoT</b>
 
-
+    - [x] _We didn't even scratched them!_
+    - [x] _We're lucky it didn't blow!_
+    - [x] _Lit up like bonfire night!_
+    - [x] _We torched them!_
+    - [x] _Gotcha!_
 ************************************************************************
 
 <!-- PROJECT SHIELDS -->
-<p align="center">
-</p>
-
-
 [![Forks][githubForks-shield]][githubForks-url]
 [![Stars][githubStars-shield]][githubStars-url]
 [![Last Commit][githubLastCommit-shield]][githubLastCommit-url]
 [![Commits Activity][githubCommits-shield]][githubCommits-url]
 [![GitHub Issues][githubIssues-shield]][githubIssues-url]
 [![GitHub PRs][githubPulls-shield]][githubPulls-url]
-<br>
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Email Me][email-shield]][email-url]
 
 
+<!-- LINKS -->
 [githubForks-shield]: https://img.shields.io/github/forks/koseburak/koseburak?
 [githubForks-url]: https://github.com/koseburak/koseburak/fork
 
@@ -82,6 +77,8 @@
 
 ************************************************************************
 
+
+
 <!--
 **koseburak/koseburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -106,3 +103,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white&labelColor=gray&color=blue)](mailto:burakkose.uk@gmail.com)
 
 -->
+
+
+
