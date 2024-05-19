@@ -41,7 +41,6 @@
 [![Stars][githubStars-shield]][githubStars-url]
 [![Last Commit][githubLastCommit-shield]][githubLastCommit-url]
 [![Commits Activity][githubCommits-shield]][githubCommits-url]
-[![GitHub Issues][githubIssues-shield]][githubIssues-url]
 [![GitHub PRs][githubPulls-shield]][githubPulls-url]
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Email Me][email-shield]][email-url]
@@ -101,6 +100,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white&labelColor=gray&color=blue)](mailto:burakkose.uk@gmail.com)
+
+
+[![GitHub Issues][githubIssues-shield]][githubIssues-url]
+[![GitHub PRs][githubPulls-shield]][githubPulls-url]
+
 
 -->
 
