@@ -12,6 +12,7 @@
 ************************************************************************
 
 - 🔭 I’m currently working on follows:
+
   - :rocket: <i>Implementing of the DevSecOps best-practices</i>
   - :whale: <i>Containerazation of the applications/workloads</i>
   - :ship: <i>Provisioning a Robus, Secure, Reliable and Highly Available Kubernetes platforms</i>
@@ -20,6 +21,7 @@
 <br/>
 
 - 🌱 I’m currently learning on follows:
+
   - :cloud: <i>Cloud Well-Architected Frameworks</i>
   - :books: <i>Solution Architecture</i>
 
