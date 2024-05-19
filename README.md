@@ -64,11 +64,11 @@
     <img src="https://img.shields.io/github/issues-pr/koseburak/koseburak?" alt="Badge showing the total of project pull-requests"/>
   </a>
 
-  <a href="[https://github.com/koseburak/koseburak/commits/main](https://www.linkedin.com/in/kose-burak)" target="_blank">
+  <a href="https://www.linkedin.com/in/kose-burak" target="_blank">
     <img src="https://img.shields.io/badge/Burak%20Kose-blue?style=flat&logo=linkedin&logoColor=white" alt="The badge redirects to Burak Kose's Linkedin profile!"/>
   </a>
 
-  <a href="[https://github.com/koseburak/koseburak/commits/main](https://www.linkedin.com/in/kose-burak)" target="_blank">
+  <a href="mailto:burakkose.uk@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white&labelColor=blue&color=blue" alt="The badge send an Email to Burak Kose!"/>
   </a>
   
