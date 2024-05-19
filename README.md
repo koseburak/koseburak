@@ -1,13 +1,43 @@
 <p align="center">
   <samp>
-    Hi there 👋,
+    Hi There 👋
+    <br>
     <br> This is Burak,
-    <br> I have been working,
-    <br> as a Software & DevOps & Platform Engineer,
+    <br> I have been working as a
+    <br> <b> Software & DevOps & Platform Engineer
     <br> for 15 years in the IT industry.
   </samp>
 </p>
 
+************************************************************************
+
+- 🔭 I’m currently working on follows:
+  - 🚀 Implementing of the DevSecOps best-practices
+  - 🚢 Containerazation of the applications/workloads
+  - 🔭 Provisioning a Robus, Secure, Reliable and Highly Available Kubernetes platforms
+  - 🎯 Automation the provisioning and configuration of infrastructure resources on multiple cloud platforms
+
+<br/>
+
+- 🌱 I’m currently learning on follows:
+  - Cloud Well-Architected Frameworks
+  - Solution Architecture
+
+<br/>
+
+- 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white&labelColor=gray&color=blue)](mailto:burakkose.uk@gmail.com)
+
+<br/>
+
+- ⚡ Fun fact: ![WoT](http://www.rw-designer.com/icon-image/21525-16x16x32.png) <b>WoT</b>
+  - <h6><i>We didn't even scratched them!</i></h6>
+  - <h6><i>We're lucky it didn't blow!</i></h6>
+  - <h6><i>Lit up like bonfire night!</i></h6>
+  - <h6><i>We torched them!</i></h6>
+  - <h6><i>Gotcha!</i></h6>
+
+
+************************************************************************
 
 <!-- PROJECT SHIELDS -->
 <p align="center">
@@ -36,12 +66,13 @@
     <img src="https://img.shields.io/github/issues-pr/koseburak/koseburak?" alt="Badge showing the total of project pull-requests"/>
   </a>
 
-  <a href="https://github.com/koseburak/koseburak/commits/main" target="_blank">
+  <a href="[https://github.com/koseburak/koseburak/commits/main](https://www.linkedin.com/in/kose-burak)" target="_blank">
     <img src="https://img.shields.io/badge/Burak%20Kose-blue?style=flat&logo=linkedin&logoColor=white" alt="The badge redirects to Burak Kose's Linkedin profile!"/>
   </a>
   
 </p>
 
+************************************************************************
 
 <!--
 **koseburak/koseburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,11 +80,19 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
+
 -->
