@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <samp>
     Hi There 👋
     <br>
@@ -39,40 +39,46 @@
 
 <!-- PROJECT SHIELDS -->
 <p align="center">
-  
-  <a href="https://github.com/koseburak/koseburak/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/koseburak/koseburak?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/koseburak/koseburak/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/koseburak/koseburak?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/koseburak/koseburak/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/koseburak/koseburak?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/koseburak/koseburak/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/koseburak/koseburak?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/koseburak/koseburak/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/koseburak/koseburak?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/koseburak/koseburak/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/koseburak/koseburak?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/kose-burak" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Burak%20Kose-blue?style=flat&logo=linkedin&logoColor=white" alt="The badge redirects to Burak Kose's Linkedin profile!"/>
-  </a>
-
-  <a href="mailto:burakkose.uk@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white&labelColor=blue&color=blue" alt="The badge send an Email to Burak Kose!"/>
-  </a>
-  
 </p>
+
+
+[![Forks][githubForks-shield]][githubForks-url]
+[![Stars][githubStars-shield]][githubStars-url]
+[![Last Commit][githubLastCommit-shield]][githubLastCommit-url]
+[![Commits Activity][githubCommits-shield]][githubCommits-url]
+[![GitHub Issues][githubIssues-shield]][githubIssues-url]
+[![GitHub PRs][githubPulls-shield]][githubPulls-url]
+<br>
+[![Linkedin][linkedin-shield]][linkedin-url]
+[![Email Me][email-shield]][email-url]
+
+
+[githubForks-shield]: https://img.shields.io/github/forks/koseburak/koseburak?
+[githubForks-url]: https://github.com/koseburak/koseburak/fork
+
+[githubStars-shield]: https://img.shields.io/github/stars/koseburak/koseburak?
+[githubStars-url]: https://github.com/koseburak/koseburak/stargazers
+
+[githubLastCommit-shield]: https://img.shields.io/github/last-commit/koseburak/koseburak?"
+[githubLastCommit-url]: https://github.com/koseburak/koseburak/commits/main
+
+[githubCommits-shield]: https://img.shields.io/github/commit-activity/m/koseburak/koseburak?
+[githubCommits-url]: https://github.com/koseburak/koseburak/commits/main
+
+[githubIssues-shield]: https://img.shields.io/github/issues/koseburak/koseburak?"
+[githubIssues-url]: https://github.com/koseburak/koseburak/issues
+
+[githubPulls-shield]: https://img.shields.io/github/issues-pr/koseburak/koseburak?
+[githubPulls-url]: https://github.com/koseburak/koseburak/pulls
+
+[linkedin-shield]: https://img.shields.io/badge/Burak%20Kose-blue?style=flat&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/kose-burak
+
+[email-shield]: https://img.shields.io/badge/Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white&labelColor=gray&color=blue
+[email-url]: mailto:burakkose.uk@gmail.com
+
+
+
 
 ************************************************************************
 
